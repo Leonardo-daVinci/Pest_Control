@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pest Control</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="enter_city_country">Enter City, Country</string>
+</resources>
